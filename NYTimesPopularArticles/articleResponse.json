@@ -1,0 +1,1991 @@
+
+{
+    "status":"OK",
+    "copyright":"Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+    "num_results":1745,
+    "results":[
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/20\/us\/politics\/trump-immigration-children-executive-order.html",
+               "adx_keywords":"Trump, Donald J;Executive Orders and Memorandums;Immigration and Emigration;Illegal Immigration;United States Politics and Government;Republican Party;House of Representatives;Senate",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By MICHAEL D. SHEAR, ABBY GOODNOUGH and MAGGIE HABERMAN",
+               "type":"Article",
+               "title":"Trump Retreats on Separating Families, but Thousands May Remain Apart",
+               "abstract":"\u201cIt is still very early, and we are awaiting further guidance on the matter,\u201d Brian Marriott, the senior director of communications for the Administration for Children and Families.",
+               "published_date":"2018-06-20",
+               "source":"The New York Times",
+               "id":100000005964396,
+               "asset_id":100000005964396,
+               "views":1,
+               "des_facet":[
+                            "EXECUTIVE ORDERS AND MEMORANDUMS",
+                            "IMMIGRATION AND EMIGRATION",
+                            "ILLEGAL IMMIGRATION",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":[
+                            "REPUBLICAN PARTY",
+                            "HOUSE OF REPRESENTATIVES",
+                            "SENATE"
+                            ],
+               "per_facet":[
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"The executive order President Trump signed on Wednesday said that officials will continue to criminally prosecute everyone who crosses the border illegally, but will seek to find or build facilities that can hold families together.",
+                        "copyright":"Al Drago for The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/us\/politics\/21dc-trumpimmig2\/21dc-trumpimmig2-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/21\/style\/zara-jacket-melania-trump.html",
+               "adx_keywords":"Trump, Melania;Fashion and Apparel;United States Politics and Government",
+               "column":null,
+               "section":"Style",
+               "byline":"By VANESSA FRIEDMAN",
+               "type":"Article",
+               "title":"Melania Trump, Agent of Coat Chaos",
+               "abstract":"Melania Trump\u2019s excursion in her \u201cI Really Don\u2019t Care\u201d jacket did not send a hidden message. It was there for all to see. ",
+               "published_date":"2018-06-21",
+               "source":"The New York Times",
+               "id":100000005967790,
+               "asset_id":100000005967790,
+               "views":2,
+               "des_facet":[
+                            "FASHION AND APPAREL",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":"",
+               "per_facet":[
+                            "TRUMP, MELANIA"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"First lady Melania Trump made an unannounced trip to visit immigrant children at a shelter in Texas yesterday. Here she returns to the West Wing of the White House in her news-making jacket.",
+                        "copyright":"Andrew Harnik\/Associated Press",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/21MELANIACOAT2-square320-v2.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/21MELANIACOAT2-thumbStandard-v2.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/merlin_140004672_6e88ac0d-a891-4716-aede-ec6f0880212b-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/merlin_140004672_6e88ac0d-a891-4716-aede-ec6f0880212b-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/merlin_140004672_6e88ac0d-a891-4716-aede-ec6f0880212b-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/merlin_140004672_6e88ac0d-a891-4716-aede-ec6f0880212b-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/21MELANIACOAT2-square640-v2.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/21MELANIACOAT2-thumbLarge-v2.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/21MELANIACOAT2-mediumThreeByTwo210-v2.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/autossell\/21MELANIACOAT2\/21MELANIACOAT2-mediumThreeByTwo440-v2.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/03\/13\/us\/california-ice-spokesman-resigns.html",
+               "adx_keywords":"Schwab, James (Spokesman);Immigration and Customs Enforcement (US);Illegal Immigration;Schaaf, Libby (1965- );United States Politics and Government;Oakland (Calif);Sessions, Jefferson B III;Trump, Donald J",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By JONAH ENGEL BROMWICH",
+               "type":"Article",
+               "title":"ICE Spokesman Resigns, Saying He Could No Longer Spread Falsehoods for Trump Administration",
+               "abstract":"James Schwab said false statements made by the immigration enforcement agency and Attorney General Jeff Sessions led to his decision.",
+               "published_date":"2018-03-13",
+               "source":"The New York Times",
+               "id":100000005795903,
+               "asset_id":100000005795903,
+               "views":3,
+               "des_facet":[
+                            "ILLEGAL IMMIGRATION",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":[
+                            "IMMIGRATION AND CUSTOMS ENFORCEMENT (US)"
+                            ],
+               "per_facet":[
+                            "SCHWAB, JAMES (SPOKESMAN)",
+                            "SCHAAF, LIBBY (1965- )",
+                            "SESSIONS, JEFFERSON B III",
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":[
+                            "OAKLAND (CALIF)"
+                            ],
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"James Schwab, who was an Immigration and Customs Enforcement spokesman until last week, said that his decision to resign was prompted by the agency\u2019s statements after the mayor of Oakland, Calif., warned about an immigration raid.",
+                        "copyright":"",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":194,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-sfSpan-v2.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":1024,
+                                          "width":820
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1500,
+                                          "width":1200
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-mediumThreeByTwo210-v2.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/03\/13\/us\/13xp-ice2\/13xp-ice2-mediumThreeByTwo440-v2.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/24\/business\/media\/james-wolfe-ali-watkins-leaks-reporter.html",
+               "adx_keywords":"Watkins, Allison (Ali);Wolfe, James A;News Sources, Confidential Status of;Classified Information and State Secrets;News and News Media;Freedom of the Press;Adultery;Espionage and Intelligence Services;Conflicts of Interest;BuzzFeed Inc;Central Intelligence Agency;Federal Bureau of Investigation;Huffington Post;McClatchy Co;New York Times;Senate Committee on Intelligence;Bumiller, Elisabeth;Rambo, Jeffrey A",
+               "column":null,
+               "section":"Business Day",
+               "byline":"By MICHAEL M. GRYNBAUM, SCOTT SHANE and EMILY FLITTER",
+               "type":"Article",
+               "title":"How an Affair Between a Reporter and a Security Aide Has Rattled Washington Media",
+               "abstract":"The seizure of email records from a Times reporter alarmed First Amendment groups. Her relationship with an intelligence aide set off an ethical debate.",
+               "published_date":"2018-06-24",
+               "source":"The New York Times",
+               "id":100000005966683,
+               "asset_id":100000005966683,
+               "views":4,
+               "des_facet":[
+                            "NEWS SOURCES, CONFIDENTIAL STATUS OF",
+                            "NEWS AND NEWS MEDIA",
+                            "FREEDOM OF THE PRESS"
+                            ],
+               "org_facet":[
+                            "CLASSIFIED INFORMATION AND STATE SECRETS",
+                            "ADULTERY",
+                            "ESPIONAGE AND INTELLIGENCE SERVICES",
+                            "CONFLICTS OF INTEREST",
+                            "BUZZFEED INC",
+                            "CENTRAL INTELLIGENCE AGENCY",
+                            "FEDERAL BUREAU OF INVESTIGATION",
+                            "HUFFINGTON POST",
+                            "MCCLATCHY CO",
+                            "NEW YORK TIMES",
+                            "SENATE COMMITTEE ON INTELLIGENCE"
+                            ],
+               "per_facet":[
+                            "WATKINS, ALLISON (ALI)",
+                            "WOLFE, JAMES A",
+                            "BUMILLER, ELISABETH",
+                            "RAMBO, JEFFREY A"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"The atrium of the Hart Senate Office Building, home of the Senate Intelligence Committee.",
+                        "copyright":"Kevin Lamarque\/Reuters",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":126,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":264,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":680,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1360,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/business\/25LEAK\/25LEAK-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/19\/opinion\/charles-rhines-gay-jury-death-row.html",
+               "adx_keywords":"South Dakota;Capital Punishment;Rhines, Charles;Homosexuality and Bisexuality;Discrimination;Jury System;Supreme Court (US)",
+               "column":"",
+               "section":"Opinion",
+               "byline":"By R\u00cdA TABACCO MAR",
+               "type":"Article",
+               "title":"A Jury May Have Sentenced a Man to Death Because He\u2019s Gay. And the Justices Don\u2019t Care.",
+               "abstract":"The Supreme Court announced it would not stop South Dakota from killing a man because he is gay.",
+               "published_date":"2018-06-19",
+               "source":"The New York Times",
+               "id":100000005961131,
+               "asset_id":100000005961131,
+               "views":5,
+               "des_facet":[
+                            "HOMOSEXUALITY AND BISEXUALITY",
+                            "JURY SYSTEM"
+                            ],
+               "org_facet":[
+                            "CAPITAL PUNISHMENT",
+                            "DISCRIMINATION",
+                            "SUPREME COURT (US)"
+                            ],
+               "per_facet":[
+                            "RHINES, CHARLES"
+                            ],
+               "geo_facet":[
+                            "SOUTH DAKOTA"
+                            ],
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"A gurney in a prison death chamber for lethal injections.",
+                        "copyright":"Andrew Lichtenstein\/Corbis, via Getty Images",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":149,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":806,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1611,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/19\/opinion\/19TabaccoMar\/19TabaccoMar-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/25\/business\/what-is-yield-curve-recession-prediction.html",
+               "adx_keywords":"Recession and Depression;United States Economy;Banking and Financial Institutions;Interest Rates;Government Bonds;Federal Reserve System;Yield curve;Stocks and Bonds",
+               "column":null,
+               "section":"Business Day",
+               "byline":"By MATT PHILLIPS",
+               "type":"Article",
+               "title":"What\u2019s the Yield Curve? \u2018A Powerful Signal of Recessions\u2019 Has Wall Street\u2019s Attention",
+               "abstract":"The bond market\u2019s yield curve is perilously close to predicting a recession \u2014 something it has done with surprising accuracy \u2014 and it\u2019s become a big topic on Wall Street.",
+               "published_date":"2018-06-25",
+               "source":"The New York Times",
+               "id":100000005960814,
+               "asset_id":100000005960814,
+               "views":6,
+               "des_facet":[
+                            "RECESSION AND DEPRESSION",
+                            "UNITED STATES ECONOMY",
+                            "BANKING AND FINANCIAL INSTITUTIONS",
+                            "INTEREST RATES"
+                            ],
+               "org_facet":[
+                            "GOVERNMENT BONDS",
+                            "FEDERAL RESERVE SYSTEM",
+                            "STOCKS AND BONDS"
+                            ],
+               "per_facet":"",
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"",
+                        "copyright":"",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-square320.png",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-thumbStandard.png",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-articleInline.png",
+                                          "format":"Normal",
+                                          "height":115,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-sfSpan.png",
+                                          "format":"Large",
+                                          "height":240,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-jumbo.png",
+                                          "format":"Jumbo",
+                                          "height":621,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-superJumbo.png",
+                                          "format":"superJumbo",
+                                          "height":1018,
+                                          "width":1678
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-square640.png",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-thumbLarge.png",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-mediumThreeByTwo210.png",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/business\/26yieldcurve1\/26yieldcurve1-mediumThreeByTwo440.png",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/26\/us\/politics\/supreme-court-trump-travel-ban.html",
+               "adx_keywords":"Supreme Court (US);Decisions and Verdicts;Immigration and Emigration;Muslims and Islam;Trump, Donald J;United States Politics and Government;Executive Orders and Memorandums",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By ADAM LIPTAK and MICHAEL D. SHEAR",
+               "type":"Article",
+               "title":"Trump\u2019s Travel Ban Is Upheld by Supreme Court",
+               "abstract":"In a 5-to-4 vote, the Supreme Court ruled that President Trump acted lawfully in imposing limits on travel from several predominantly Muslim countries.",
+               "published_date":"2018-06-26",
+               "source":"The New York Times",
+               "id":100000005932188,
+               "asset_id":100000005932188,
+               "views":7,
+               "des_facet":[
+                            "IMMIGRATION AND EMIGRATION",
+                            "EXECUTIVE ORDERS AND MEMORANDUMS"
+                            ],
+               "org_facet":[
+                            "SUPREME COURT (US)",
+                            "DECISIONS AND VERDICTS",
+                            "MUSLIMS AND ISLAM",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "per_facet":[
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Protesters gathered in front of the Supreme Court following the court's decision on the travel ban.",
+                        "copyright":"Erin Schaff for The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/27dc-travelban-alpha-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/27dc-travelban-alpha-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/merlin_140315853_d75c0c4f-ece7-494d-9264-eb791a4888f8-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/merlin_140315853_d75c0c4f-ece7-494d-9264-eb791a4888f8-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/merlin_140315853_d75c0c4f-ece7-494d-9264-eb791a4888f8-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/merlin_140315853_d75c0c4f-ece7-494d-9264-eb791a4888f8-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/27dc-travelban-alpha-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/27dc-travelban-alpha-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/merlin_140315853_d75c0c4f-ece7-494d-9264-eb791a4888f8-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/27\/us\/27dc-travelban-alpha\/merlin_140315853_d75c0c4f-ece7-494d-9264-eb791a4888f8-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/interactive\/2018\/06\/25\/sports\/world-cup\/how-teams-can-advance.html",
+               "adx_keywords":"World Cup 2018 (Soccer);Soccer",
+               "column":"",
+               "section":"Sports",
+               "byline":"By KENAN DAVIS, VICTOR MATHER and JOE WARD",
+               "type":"Interactive",
+               "title":"World Cup 2018: How Japan, Colombia and Senegal Can Advance to the Round of 16",
+               "abstract":"The group stage of the World Cup is almost over. What will it take for each team to advance to the knockout round?",
+               "published_date":"2018-06-25",
+               "source":"The New York Times",
+               "id":100000005973171,
+               "asset_id":100000005973171,
+               "views":8,
+               "des_facet":[
+                            "WORLD CUP 2018 (SOCCER)",
+                            "SOCCER"
+                            ],
+               "org_facet":"",
+               "per_facet":"",
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":null,
+                        "copyright":null,
+                        "approved_for_syndication":0,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1366,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/us\/how-teams-can-advance-promo-1529914306357\/how-teams-can-advance-promo-1529914306357-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/23\/us\/politics\/republican-voters-trump.html",
+               "adx_keywords":"Trump, Donald J;Republican Party;Illegal Immigration;Midterm Elections (2018);Democratic Party;Polls and Public Opinion;United States Politics and Government",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By JEREMY W. PETERS",
+               "type":"Article",
+               "title":"As Critics Assail Trump, His Supporters Dig In Deeper",
+               "abstract":"With the president\u2019s approval rating at 90 percent among Republicans, many supporters say they defend Mr. Trump even with some misgivings because they feel criticism of him is constantly overblown.",
+               "published_date":"2018-06-23",
+               "source":"The New York Times",
+               "id":100000005969424,
+               "asset_id":100000005969424,
+               "views":9,
+               "des_facet":[
+                            "MIDTERM ELECTIONS (2018)",
+                            "POLLS AND PUBLIC OPINION",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":[
+                            "REPUBLICAN PARTY",
+                            "ILLEGAL IMMIGRATION",
+                            "DEMOCRATIC PARTY"
+                            ],
+               "per_facet":[
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Supporters cheered for President Trump during a campaign rally in Duluth, Minn., on Wednesday.",
+                        "copyright":"Tom Brenner\/The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-square320-v4.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-thumbStandard-v4.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-articleInline-v3.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-sfSpan-v4.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-jumbo-v3.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-superJumbo-v3.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-square640-v4.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-thumbLarge-v4.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-mediumThreeByTwo210-v4.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/00republicans1\/00republicans1-mediumThreeByTwo440-v4.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/25\/opinion\/trump-sarah-huckabee-sanders-restaurant-civility.html",
+               "adx_keywords":"United States Politics and Government;Trump, Donald J;Demonstrations, Protests and Riots;Bondi, Pamela J;Nielsen, Kirstjen;Sanders, Sarah Huckabee;Waters, Maxine;Democratic Party",
+               "column":"Op-Ed Columnist",
+               "section":"Opinion",
+               "byline":"By MICHELLE GOLDBERG",
+               "type":"Article",
+               "title":"We Have a Crisis of Democracy, Not Manners",
+               "abstract":"Trump officials deserve public shaming.",
+               "published_date":"2018-06-25",
+               "source":"The New York Times",
+               "id":100000005974132,
+               "asset_id":100000005974132,
+               "views":10,
+               "des_facet":[
+                            "UNITED STATES POLITICS AND GOVERNMENT",
+                            "DEMONSTRATIONS, PROTESTS AND RIOTS"
+                            ],
+               "org_facet":[
+                            "DEMOCRATIC PARTY"
+                            ],
+               "per_facet":[
+                            "TRUMP, DONALD J",
+                            "BONDI, PAMELA J",
+                            "NIELSEN, KIRSTJEN",
+                            "SANDERS, SARAH HUCKABEE",
+                            "WATERS, MAXINE"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Kirstjen Nielsen, the homeland security secretary, stood nearby as Sarah Huckabee Sanders, the White House press secretary, spoke to the press on June 18.",
+                        "copyright":"Tom Brenner\/The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/25goldberg-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/25goldberg-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/merlin_139816602_e964bc3a-a3f9-402f-8020-5d5accc6385d-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/merlin_139816602_e964bc3a-a3f9-402f-8020-5d5accc6385d-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/merlin_139816602_e964bc3a-a3f9-402f-8020-5d5accc6385d-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/merlin_139816602_e964bc3a-a3f9-402f-8020-5d5accc6385d-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/25goldberg-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/25goldberg-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/merlin_139816602_e964bc3a-a3f9-402f-8020-5d5accc6385d-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25goldberg\/merlin_139816602_e964bc3a-a3f9-402f-8020-5d5accc6385d-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/22\/us\/border-checkpoints.html",
+               "adx_keywords":"Maine;New Hampshire;Roads and Traffic;Border Patrol (US);Illegal Immigration;Immigration and Emigration;Civil Rights and Liberties;Fourth Amendment (US Constitution);American Civil Liberties Union;Customs and Border Protection (US);United States Politics and Government",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By MATTHEW HAAG",
+               "type":"Article",
+               "title":"Border Patrol Agents Shut Down Highways in Maine and New Hampshire With Checkpoints",
+               "abstract":"Federal agents refused to let drivers in Maine and New Hampshire pass until they disclosed their citizenship. The government says checkpoints are vital to curbing unauthorized immigration.",
+               "published_date":"2018-06-22",
+               "source":"The New York Times",
+               "id":100000005969290,
+               "asset_id":100000005969290,
+               "views":11,
+               "des_facet":[
+                            "ILLEGAL IMMIGRATION",
+                            "IMMIGRATION AND EMIGRATION",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":[
+                            "ROADS AND TRAFFIC",
+                            "BORDER PATROL (US)",
+                            "CIVIL RIGHTS AND LIBERTIES",
+                            "FOURTH AMENDMENT (US CONSTITUTION)",
+                            "AMERICAN CIVIL LIBERTIES UNION",
+                            "CUSTOMS AND BORDER PROTECTION (US)"
+                            ],
+               "per_facet":"",
+               "geo_facet":[
+                            "MAINE",
+                            "NEW HAMPSHIRE"
+                            ],
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Border Patrol agents in Maine shut down part of Interstate 95 on Wednesday to stop drivers and ask them where they were born.",
+                        "copyright":"Bangor Daily News",
+                        "approved_for_syndication":0,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/merlin_140046837_bba48c56-de45-42dc-8a5e-aad6d31feb70-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":99,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/merlin_140046837_bba48c56-de45-42dc-8a5e-aad6d31feb70-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":534,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/merlin_140046837_bba48c56-de45-42dc-8a5e-aad6d31feb70-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1069,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/23\/us\/23xp-checkpoint\/23xp-checkpoint-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/21\/sports\/nba-draft.html",
+               "adx_keywords":"Basketball;Draft and Recruitment (Sports);National Basketball Assn",
+               "column":null,
+               "section":"Sports",
+               "byline":"By BENJAMIN HOFFMAN and MARC TRACY",
+               "type":"Article",
+               "title":"2018 N.B.A. Draft Results: Analysis of Every Pick in Round 1",
+               "abstract":"The Phoenix Suns took the Arizona big man Deandre Ayton with the first pick in the draft. Here\u2019s a look at the entire first round.",
+               "published_date":"2018-06-21",
+               "source":"The New York Times",
+               "id":100000005967178,
+               "asset_id":100000005967178,
+               "views":12,
+               "des_facet":[
+                            "BASKETBALL",
+                            "DRAFT AND RECRUITMENT (SPORTS)"
+                            ],
+               "org_facet":[
+                            "NATIONAL BASKETBALL ASSN"
+                            ],
+               "per_facet":"",
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Deandre Ayton",
+                        "copyright":"Matt York\/Associated Press",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/draft-ayton-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/draft-ayton-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/merlin_139146612_829079bd-b990-4985-896a-4c204a90852a-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":147,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/merlin_139146612_829079bd-b990-4985-896a-4c204a90852a-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/merlin_139146612_829079bd-b990-4985-896a-4c204a90852a-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":793,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/merlin_139146612_829079bd-b990-4985-896a-4c204a90852a-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1586,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/draft-ayton-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/draft-ayton-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/merlin_139146612_829079bd-b990-4985-896a-4c204a90852a-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/sports\/24draft-ayton\/merlin_139146612_829079bd-b990-4985-896a-4c204a90852a-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/21\/us\/politics\/melania-trump-jacket.html",
+               "adx_keywords":"Executive Orders and Memorandums;Illegal Immigration;United States Politics and Government;Refugees and Displaced Persons;First Ladies (US);Immigration Detention;Azar, Alex M II;Trump, Melania;Trump, Donald J;McAllen (Tex);Mexico;United States",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By KATIE ROGERS",
+               "type":"Article",
+               "title":"Melania Trump Wore a Jacket Saying \u2018I Really Don\u2019t Care\u2019 on Her Way to Texas Shelters",
+               "abstract":"Mrs. Trump\u2019s spokeswoman said it was \u201cjust a jacket,\u201d but her husband had a different take. It \u201crefers to the Fake News Media,\u201d President Trump said on Twitter.",
+               "published_date":"2018-06-21",
+               "source":"The New York Times",
+               "id":100000005967094,
+               "asset_id":100000005967094,
+               "views":13,
+               "des_facet":[
+                            "EXECUTIVE ORDERS AND MEMORANDUMS",
+                            "ILLEGAL IMMIGRATION",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":[
+                            "REFUGEES AND DISPLACED PERSONS",
+                            "FIRST LADIES (US)",
+                            "IMMIGRATION DETENTION"
+                            ],
+               "per_facet":[
+                            "AZAR, ALEX M II",
+                            "TRUMP, MELANIA",
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":[
+                            "MCALLEN (TEX)",
+                            "MEXICO",
+                            "UNITED STATES"
+                            ],
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Melania Trump, the first lady, departed Joint Base Andrews on Thursday after traveling to Texas. Her jacket reads, \u201cI really don\u2019t care. Do U?\u201d",
+                        "copyright":"Mandel Ngan\/Agence France-Presse \u2014 Getty Images",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-articleInline-v2.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-sfSpan-v2.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-jumbo-v2.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-superJumbo-v2.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-mediumThreeByTwo210-v2.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/us\/politics\/22dc-melania-top\/22dc-melania-top-mediumThreeByTwo440-v2.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/interactive\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections.html",
+               "adx_keywords":"",
+               "column":"",
+               "section":"U.S.",
+               "byline":"By SARAH ALMUKHTAR, MATTHEW BLOCH and JASMINE C. LEE",
+               "type":"Interactive",
+               "title":"New York Primary Election Results",
+               "abstract":"See full results and maps from the New York primaries.",
+               "published_date":"2018-06-26",
+               "source":"The New York Times",
+               "id":100000005974607,
+               "asset_id":100000005974607,
+               "views":14,
+               "des_facet":"",
+               "org_facet":"",
+               "per_facet":"",
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":null,
+                        "copyright":null,
+                        "approved_for_syndication":0,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-square320.png",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-thumbStandard.png",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-articleInline.png",
+                                          "format":"Normal",
+                                          "height":106,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-sfSpan.png",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-jumbo.png",
+                                          "format":"Jumbo",
+                                          "height":573,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-superJumbo.png",
+                                          "format":"superJumbo",
+                                          "height":573,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-thumbLarge.png",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-mediumThreeByTwo210.png",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/26\/us\/elections\/results-new-york-primary-elections-1529960682345\/results-new-york-primary-elections-1529960682345-mediumThreeByTwo440.png",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/24\/nyregion\/bronx-fatal-stabbing-arrests.html",
+               "adx_keywords":"Social Media;Murders, Attempted Murders and Homicides;Video Recordings, Downloads and Streaming;Trinitarios (Gang);Bronx (NYC);Guzman-Feliz, Lesandro",
+               "column":null,
+               "section":"New York",
+               "byline":"By ASHLEY SOUTHALL and LUIS FERR\u00c9-SADURN\u00cd",
+               "type":"Article",
+               "title":"\u2018Disgusted\u2019 by Video of Fatal Stabbing of Teen, Callers Flood Police Tip Line",
+               "abstract":"The callers offered names, addresses and gang affiliations that helped the police make an arrest Sunday in the stabbing death of Lesandro Guzman-Feliz, 15.",
+               "published_date":"2018-06-24",
+               "source":"The New York Times",
+               "id":100000005972486,
+               "asset_id":100000005972486,
+               "views":15,
+               "des_facet":[
+                            "SOCIAL MEDIA",
+                            "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"
+                            ],
+               "org_facet":[
+                            "VIDEO RECORDINGS, DOWNLOADS AND STREAMING",
+                            "TRINITARIOS (GANG)"
+                            ],
+               "per_facet":[
+                            "GUZMAN-FELIZ, LESANDRO"
+                            ],
+               "geo_facet":[
+                            "BRONX (NYC)"
+                            ],
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"People visited a memorial outside a bodega on East 183rd Street in the Bronx for Lesandro Guzman-Feliz, 15, who was stabbed to death on Wednesday after being dragged out of the store.",
+                        "copyright":"Hiroko Masuike\/The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1366,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/25\/nyregion\/25lesandro-p1\/25lesandro1_xp-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/20\/style\/instagram-grandmas.html",
+               "adx_keywords":"Women and Girls;Age, Chronological;Elderly;Fashion and Apparel;Social Media;Instagram Inc",
+               "column":null,
+               "section":"Style",
+               "byline":"By RUTH LA FERLA",
+               "type":"Article",
+               "title":"The Glamorous Grandmas of Instagram",
+               "abstract":"The subversive cadre of women over 60 prove that \u201cold\u201d is not what it used to be.",
+               "published_date":"2018-06-20",
+               "source":"The New York Times",
+               "id":100000005943066,
+               "asset_id":100000005943066,
+               "views":16,
+               "des_facet":[
+                            "WOMEN AND GIRLS",
+                            "FASHION AND APPAREL",
+                            "SOCIAL MEDIA"
+                            ],
+               "org_facet":[
+                            "AGE, CHRONOLOGICAL",
+                            "ELDERLY",
+                            "INSTAGRAM INC"
+                            ],
+               "per_facet":"",
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Lyn Slater, 64, @iconaccidental",
+                        "copyright":"Calvin Lom",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":258,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":1024,
+                                          "width":656
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":2048,
+                                          "width":1312
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/22\/fashion\/21insta-grans1\/21insta-grans1-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/21\/opinion\/blood-libel-trump-immigrants.html",
+               "adx_keywords":"Trump, Donald J;Immigration and Emigration;Illegal Immigration;Anti-Semitism;United States Politics and Government",
+               "column":"Op-Ed Columnist",
+               "section":"Opinion",
+               "byline":"By PAUL KRUGMAN",
+               "type":"Article",
+               "title":"Return of the Blood Libel",
+               "abstract":"There\u2019s no immigration crisis, just a hatred crisis.",
+               "published_date":"2018-06-21",
+               "source":"The New York Times",
+               "id":100000005967223,
+               "asset_id":100000005967223,
+               "views":17,
+               "des_facet":[
+                            "IMMIGRATION AND EMIGRATION",
+                            "ILLEGAL IMMIGRATION",
+                            "UNITED STATES POLITICS AND GOVERNMENT"
+                            ],
+               "org_facet":[
+                            "ANTI-SEMITISM"
+                            ],
+               "per_facet":[
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"The crowd at the Make America Great Again rally in Minnesota on Wednesday joined the president in jeering and outrage.",
+                        "copyright":"Tom Brenner\/The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/21krugmanWeb-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/21krugmanWeb-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/merlin_139936050_77f5eba6-f7a5-4636-bec9-6382b2749637-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/merlin_139936050_77f5eba6-f7a5-4636-bec9-6382b2749637-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/merlin_139936050_77f5eba6-f7a5-4636-bec9-6382b2749637-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/merlin_139936050_77f5eba6-f7a5-4636-bec9-6382b2749637-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1366,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/21krugmanWeb-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/21krugmanWeb-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/21krugmanWeb-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21krugmanWeb\/21krugmanWeb-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/23\/technology\/smart-home-devices-domestic-abuse.html",
+               "adx_keywords":"Domestic Violence;Home Automation and Smart Homes;Home Appliances;Women and Girls;Mobile Applications",
+               "column":null,
+               "section":"Technology",
+               "byline":"By NELLIE BOWLES",
+               "type":"Article",
+               "title":"Thermostats, Locks and Lights: Digital Tools of Domestic Abuse",
+               "abstract":"Internet-connected home devices that are marketed as the newest conveniences are also being used to harass, monitor and control.",
+               "published_date":"2018-06-23",
+               "source":"The New York Times",
+               "id":100000005945798,
+               "asset_id":100000005945798,
+               "views":18,
+               "des_facet":[
+                            "DOMESTIC VIOLENCE",
+                            "HOME AUTOMATION AND SMART HOMES",
+                            "HOME APPLIANCES"
+                            ],
+               "org_facet":[
+                            "WOMEN AND GIRLS",
+                            "MOBILE APPLICATIONS"
+                            ],
+               "per_facet":"",
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Some of tech\u2019s biggest companies make smart home products, including Amazon with its Echo speaker and Alexa smart assistant.",
+                        "copyright":"Karsten Moran for The New York Times",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-square320-v2.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-articleInline-v2.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-sfSpan-v2.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-jumbo-v2.jpg",
+                                          "format":"Jumbo",
+                                          "height":682,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-superJumbo-v2.jpg",
+                                          "format":"superJumbo",
+                                          "height":1364,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-square640-v2.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-mediumThreeByTwo210-v2.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/24\/business\/24SMARTHOME-3\/24SMARTHOME-3-mediumThreeByTwo440-v2.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/27\/us\/politics\/anthony-kennedy-retire-supreme-court.html",
+               "adx_keywords":"Kennedy, Anthony M;Supreme Court (US);Trump, Donald J;United States Politics and Government;Appointments and Executive Changes;Conservatism (US Politics)",
+               "column":null,
+               "section":"U.S.",
+               "byline":"By MICHAEL D. SHEAR",
+               "type":"Article",
+               "title":"Supreme Court Justice Anthony Kennedy Will Retire",
+               "abstract":"The announcement gives President Trump the opportunity to create a solid five-member conservative majority and fundamentally change the direction of the court.",
+               "published_date":"2018-06-27",
+               "source":"The New York Times",
+               "id":100000005181513,
+               "asset_id":100000005181513,
+               "views":19,
+               "des_facet":[
+                            "UNITED STATES POLITICS AND GOVERNMENT",
+                            "APPOINTMENTS AND EXECUTIVE CHANGES"
+                            ],
+               "org_facet":[
+                            "SUPREME COURT (US)",
+                            "CONSERVATISM (US POLITICS)"
+                            ],
+               "per_facet":[
+                            "KENNEDY, ANTHONY M",
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"Justice Anthony M. Kennedy\u2019s letter to President Trump announcing his retirement from the Supreme Court.",
+                        "copyright":"",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-square320-v6.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-thumbStandard-v6.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-articleInline-v5.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-sfSpan-v5.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-jumbo-v5.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-superJumbo-v5.jpg",
+                                          "format":"superJumbo",
+                                          "height":1080,
+                                          "width":1620
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-square640-v6.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-thumbLarge-v6.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-mediumThreeByTwo210-v4.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/28\/us\/28-resignation-doc\/28-resignation-doc-mediumThreeByTwo440-v4.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        ]
+               },
+               {
+               "url":"https:\/\/www.nytimes.com\/2018\/06\/20\/opinion\/family-separation-melania-trump.html",
+               "adx_keywords":"United States Politics and Government;Child Abuse and Neglect;Immigration and Emigration;Trump, Melania;Trump, Donald J",
+               "column":"Op-Ed Columnist",
+               "section":"Opinion",
+               "byline":"By CHARLES M. BLOW",
+               "type":"Article",
+               "title":"The King and Queen of Cruelty",
+               "abstract":"Melania and Donald Trump are in this terror together.",
+               "published_date":"2018-06-20",
+               "source":"The New York Times",
+               "id":100000005965717,
+               "asset_id":100000005965717,
+               "views":20,
+               "des_facet":[
+                            "UNITED STATES POLITICS AND GOVERNMENT",
+                            "CHILD ABUSE AND NEGLECT",
+                            "IMMIGRATION AND EMIGRATION"
+                            ],
+               "org_facet":"",
+               "per_facet":[
+                            "TRUMP, MELANIA",
+                            "TRUMP, DONALD J"
+                            ],
+               "geo_facet":"",
+               "media":[
+                        {
+                        "type":"image",
+                        "subtype":"photo",
+                        "caption":"The Trumps preparing to greet King Felipe VI and Queen Letizia of Spain on Tuesday.",
+                        "copyright":"Chip Somodevilla\/Getty Images",
+                        "approved_for_syndication":1,
+                        "media-metadata":[
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/21blowWeb-square320.jpg",
+                                          "format":"square320",
+                                          "height":320,
+                                          "width":320
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/21blowWeb-thumbStandard.jpg",
+                                          "format":"Standard Thumbnail",
+                                          "height":75,
+                                          "width":75
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/merlin_139864392_69c41231-e0c2-4a69-ae1f-073412a5e2d6-articleInline.jpg",
+                                          "format":"Normal",
+                                          "height":127,
+                                          "width":190
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/merlin_139864392_69c41231-e0c2-4a69-ae1f-073412a5e2d6-sfSpan.jpg",
+                                          "format":"Large",
+                                          "height":263,
+                                          "width":395
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/merlin_139864392_69c41231-e0c2-4a69-ae1f-073412a5e2d6-jumbo.jpg",
+                                          "format":"Jumbo",
+                                          "height":683,
+                                          "width":1024
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/merlin_139864392_69c41231-e0c2-4a69-ae1f-073412a5e2d6-superJumbo.jpg",
+                                          "format":"superJumbo",
+                                          "height":1365,
+                                          "width":2048
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/21blowWeb-square640.jpg",
+                                          "format":"square640",
+                                          "height":640,
+                                          "width":640
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/21blowWeb-thumbLarge.jpg",
+                                          "format":"Large Thumbnail",
+                                          "height":150,
+                                          "width":150
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/21blowWeb-mediumThreeByTwo210.jpg",
+                                          "format":"mediumThreeByTwo210",
+                                          "height":140,
+                                          "width":210
+                                          },
+                                          {
+                                          "url":"https:\/\/static01.nyt.com\/images\/2018\/06\/21\/opinion\/21blowWeb\/21blowWeb-mediumThreeByTwo440.jpg",
+                                          "format":"mediumThreeByTwo440",
+                                          "height":293,
+                                          "width":440
+                                          }
+                                          ]
+                        }
+                        
+                        ]
+               }
+               ]
+}
+

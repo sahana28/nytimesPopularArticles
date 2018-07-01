@@ -10,27 +10,39 @@ import XCTest
 @testable import NYTimesPopularArticles
 
 class NYTimesPopularArticlesTests: XCTestCase {
+    var articleArray = [Article]()
+    var jsonDictionary = [String: Any]()
+    var articleDataLayer = ArticlesDataLayer()
     
     override func setUp() {
         super.setUp()
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+        if let path = Bundle.main.path(forResource: "articleResponse", ofType: "json") {
+            do {
+                let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
+                let jsonResult = try JSONSerialization.jsonObject(with: data, options: .mutableLeaves)
+                if jsonResult is Dictionary<String, AnyObject>{
+                    jsonDictionary = jsonResult as! [String : Any]
+                }
+            } catch let error {
+                print(error.localizedDescription)
+            }
+        }
+        
+        
     }
     
     override func tearDown() {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
         super.tearDown()
+        
     }
     
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+    func testArticleResponse() {
+        articleArray = articleDataLayer.getArticles(responseObject: jsonDictionary as AnyObject)
+        XCTAssertTrue(articleArray.count > 0,"article array is empty" )
+        let article = articleArray[0]
+        XCTAssertNotNil(article, "article is nil")
     }
     
-    func testPerformanceExample() {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
-    }
+    
     
 }
